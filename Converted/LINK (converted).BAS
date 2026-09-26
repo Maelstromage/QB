@@ -1,0 +1,6 @@
+SCREEN 7
+DRAW "c2 r3dllr4lldlur3drrdrdul3drd"'hat
+DRAW "blc6ldlrrbubl4u2rl6du2r5lul3"
+DRAW "rd4uc2lc14dllrrdrruurddrruurduurduubd6bl5rrdllrdrbu3bll3"
+DRAW "br4c2r3ldlbr4dc6l4r2urd2rl4dr3l4c2l2uluuc6lddulc14ulc6uud6"
+DRAW "fruc2dc6drrluuudr3l3dc2r7ul3r4uruddc6rdlldlrr"

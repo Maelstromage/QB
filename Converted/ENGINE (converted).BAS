@@ -1,0 +1,8 @@
+CLS
+PRINT (640 * 200) / 16
+FOR b = 1 TO c
+FOR a = 0 TO 15
+COLOR a
+PRINT "Û";
+NEXT a
+NEXT b
