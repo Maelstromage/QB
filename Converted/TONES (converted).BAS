@@ -1,0 +1,25 @@
+CLS
+PRINT "Nickel"
+SOUND 1700, (18.2 / 1000) * 66
+SOUND 32767, (18.2 / 1000) * 66
+
+FOR i = 1 TO 30000: NEXT: CLS
+
+PRINT "Dime"
+FOR i = 1 TO 3
+  SOUND 1700, (18.2 / 1000) * 66
+  SOUND 32767, (18.2 / 1000) * 66
+NEXT
+
+FOR i = 1 TO 30000: NEXT: CLS
+
+PRINT "Quarter"
+FOR i = 1 TO 5
+  SOUND 1700, (18.2 / 1000) * 33
+  SOUND 32767, (18.2 / 1000) * 33
+NEXT
+
+
+
+
+
